@@ -2,10 +2,10 @@
 
 ## Create a .env in frontend and put REACT_APP_THEME
 
-### You can choose three different themes (all in lowercase)
+### You can choose between three different themes (all in lowercase)
 
-default
+> default
 
-solaris
+> solaris
 
-brown
+> brown
